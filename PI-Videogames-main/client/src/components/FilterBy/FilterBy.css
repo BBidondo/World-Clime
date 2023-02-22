@@ -1,0 +1,27 @@
+.container-div{
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+.selectCont {
+    padding: 10px;
+    margin: 20px;
+    width: 400px;
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+}
+
+.option {
+    margin: 5px;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 0;
+
+}
+
+.optionGroup {
+    padding: 10px;
+    font-family: "Helvetica";
+    background-color: rgb(255, 255, 255);
+}
