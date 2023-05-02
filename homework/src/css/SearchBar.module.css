@@ -1,0 +1,52 @@
+
+.contenedor{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: -1.5%;
+    padding: 4rem 4rem;
+    box-shadow:  20px 20px 60px #808082,
+                 -20px -20px 60px #ffffff;
+                
+   
+}
+
+.inputText{
+    border-radius: 15px;
+    border-color: #ffffff00;
+size-adjust: 10%;
+background-color: #e7e7e7;
+padding-left: 1.25%;
+}
+
+
+
+.boton{
+    color:  rgba(255, 255, 255, 0);
+    size-adjust: 10%; 
+    height: 1.75rem;
+    width: 1.75rem;
+   border-radius: 15px;
+    border-color:  rgba(255, 255, 255, 0);
+    position:relative;
+    left: 10px
+    
+}
+
+.titulo{
+    position: absolute;
+    left: 50px ;
+    width: 230px;
+}
+
+.img{
+    position: relative;
+    left:2px;
+    size: 12px;
+    display: flex;
+    height:14px; 
+    width:10px;
+   
+
+}

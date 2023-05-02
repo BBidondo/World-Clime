@@ -1,0 +1,9 @@
+.contenedor{
+    display: flex; 
+    box-shadow: 40px; 
+    position: relative;
+    
+ border-color: #dddd;
+    position: relative;
+    top: 75px;
+}
