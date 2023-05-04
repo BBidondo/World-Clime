@@ -2,11 +2,13 @@
 
 This is a project that I created as part of my evaluative coursework at the Soy Henry web development bootcamp. The project allows users to search for any city in the world and view a card displaying its current weather information. The app uses the Open Weather API to retrieve the necessary data, and depending on the information obtained, it displays different images and information. This was one of my first projects, and I recently gave it a little CSS update to enhance its visual appeal.
 
-💻 Used Techonologies
-HTML5
-CSS3
-JavaScript (ES6)
-React
+<!--
+
+💻 Used Techonologies:
+-HTML5
+-CSS3
+-JavaScript (ES6)
+-React
 
 💻 Installation
 🍂 git clone https://github.com/mateofilip/Weather-App.git
