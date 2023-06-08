@@ -1,0 +1,18 @@
+.contenedor{
+    display: flex;
+    flex-wrap: wrap; /* establece envolver los elementos */
+    justify-content: space-between; /* opcional, para espaciar las cards */
+    box-shadow: 40px;
+    position: relative;
+    border-color: #dddd;
+    top: 75px;
+  }
+
+.card {
+  opacity: 0;
+  transition: opacity 0.5s ease-in;
+}
+
+.card.show {
+  opacity: 1;
+}

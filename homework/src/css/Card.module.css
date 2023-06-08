@@ -1,0 +1,56 @@
+.contenedor {
+  width: 250px;
+  height: 450px;
+  border-radius: 15px;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding: 68px;
+  border-color: #dddd;
+  position: relative;
+  top: 5px;
+  border-radius: 10px;
+  background: #e1e1ea;
+  box-shadow: 20px 20px 60px #bfbfc717, -20px -20px 60px #ffffff1b;
+  margin-bottom: 2rem;
+
+  opacity: 0;
+  animation: fadeIn 0.5s ease-in-out forwards;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+
+
+.infoCont {
+  color: #000000;
+}
+
+.city {
+  color: rgba(0, 0, 0, 0);
+  padding: 0;
+}
+
+.min-max {
+  color: #1919ca;
+}
+
+.btn {
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  padding: 0;
+  border: none;
+  background: none;
+}
